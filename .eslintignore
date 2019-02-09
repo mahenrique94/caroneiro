@@ -1,0 +1,7 @@
+.expo
+.idea
+.vscode
+/assets
+/build
+/coverage
+/node_modules

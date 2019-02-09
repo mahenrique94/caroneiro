@@ -1,0 +1,29 @@
+{
+    "expo": {
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "icon": "./assets/icon.png",
+        "ios": {
+            "supportsTablet": true
+        },
+        "name": "Caroneiro",
+        "orientation": "portrait",
+        "platforms": [
+            "android",
+            "ios"
+        ],
+        "privacy": "public",
+        "sdkVersion": "32.0.0",
+        "slug": "caroneiro",
+        "splash": {
+            "backgroundColor": "#ffffff",
+            "image": "./assets/splash.png",
+            "resizeMode": "contain"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "version": "1.0.0"
+    }
+}
